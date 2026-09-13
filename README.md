@@ -1,22 +1,19 @@
 # Hanzi Blocks
 
-Kid-friendly app for learning Chinese characters as building blocks.
+Kids learn Chinese characters in construction chains — each character grows out of the last.
 
-**Play now:** https://rawcdn.githack.com/ML-Chen/hanzi-blocks/main/index.html
+**https://ml-chen.github.io/hanzi-blocks/**
 
-Source: https://github.com/ML-Chen/hanzi-blocks
+Backup: **https://cdn.jsdelivr.net/gh/ML-Chen/hanzi-blocks@main/index.html**
 
-The first visit to rawgithack may show a one-time "Open the page" screen. After that the app loads.
+## Chains
 
-If you enable GitHub Pages on this repo (Settings → Pages → GitHub Actions), this nicer URL will work:
-https://ml-chen.github.io/hanzi-blocks/
+- 一二三
+- 人入火大太天夫无
+- 十干牛平
+- 木林本未末
+- 口日曰白百
+- 女马妈吗
+- 青清情晴请
 
-## What it does
-
-- Families of lookalike / related characters
-- Side-by-side list so kids can compare twins
-- Stroke-order animation and finger tracing
-- Audio for Chinese and English
-- Picture + short kid tip for each character
-- Flashcards with multiple choice
-- Stars saved in the browser
+Overview shows every chain in a row so lookalikes sit next to each other. The lesson is one screen: hear Chinese then English, watch the strokes, trace, Next.

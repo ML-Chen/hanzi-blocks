@@ -1,1 +1,71 @@
-[{"id":"lines","color":"#ef6b4a","title":"Lines","kicker":"Family 1","note":"Count the strokes. 一, 二, 三 stack the same line.","chars":[{"zi":"一","py":"yī","en":"one","emoji":"1️⃣","tip":"One line."},{"zi":"二","py":"èr","en":"two","emoji":"2️⃣","tip":"Two lines. Bottom one is a little longer."},{"zi":"三","py":"sān","en":"three","emoji":"3️⃣","tip":"Three lines. Middle one is shortest."},{"zi":"十","py":"shí","en":"ten","emoji":"➕","tip":"A plus sign. Ten."},{"zi":"工","py":"gōng","en":"work","emoji":"🛠️","tip":"Like 二 with a stick down the middle."}]},{"id":"people","color":"#4d8fd6","title":"People","kicker":"Family 2","note":"Look twins: 人 and 入. Then 人 grows into 大, 天, and 夫.","chars":[{"zi":"人","py":"rén","en":"person","emoji":"🚶","tip":"Two legs. The left stroke sits on top.","twin":"入"},{"zi":"入","py":"rù","en":"enter","emoji":"🚪","tip":"Going in. The right stroke sits on top.","twin":"人"},{"zi":"大","py":"dà","en":"big","emoji":"🦣","tip":"A person with arms stretched wide."},{"zi":"太","py":"tài","en":"too / very","emoji":"😮","tip":"大 with a little extra drop."},{"zi":"天","py":"tiān","en":"sky","emoji":"🌤️","tip":"A line over 大. The sky above a person.","twin":"夫"},{"zi":"夫","py":"fū","en":"husband","emoji":"🤵","tip":"Like 天, but the middle stick pokes out the top.","twin":"天"}]},{"id":"earth","color":"#c4843a","title":"Earth & up-down","kicker":"Family 3","note":"Twins 土 and 士: which line is longer?","chars":[{"zi":"土","py":"tǔ","en":"earth","emoji":"🌱","tip":"Bottom line is longer — the ground is wide.","twin":"士"},{"zi":"士","py":"shì","en":"scholar","emoji":"🎓","tip":"Top line is longer — like a hat.","twin":"土"},{"zi":"上","py":"shàng","en":"up","emoji":"⬆️","tip":"A short mark above the line."},{"zi":"下","py":"xià","en":"down","emoji":"⬇️","tip":"A mark hanging under the line."}]},{"id":"trees","color":"#5aa35a","title":"Trees","kicker":"Family 4","note":"Start with 木. 未 and 末 look almost the same.","chars":[{"zi":"木","py":"mù","en":"tree","emoji":"🌳","tip":"A tree with roots and branches."},{"zi":"林","py":"lín","en":"woods","emoji":"🌲","tip":"Two trees."},{"zi":"森","py":"sēn","en":"forest","emoji":"🏞️","tip":"Three trees. A whole forest."},{"zi":"本","py":"běn","en":"root","emoji":"🌱","tip":"A mark at the bottom of 木 — the roots."},{"zi":"未","py":"wèi","en":"not yet","emoji":"⏳","tip":"Top bar is shorter. Not done growing.","twin":"末"},{"zi":"末","py":"mò","en":"end / tip","emoji":"🏁","tip":"Top bar is longer. Grown to the tip.","twin":"未"},{"zi":"禾","py":"hé","en":"grain","emoji":"🌾","tip":"木 with a little droop on top. Grain plant."}]},{"id":"boxes","color":"#f4b942","title":"Boxes","kicker":"Family 5","note":"口 is a mouth. 日 is tall. 曰 is wide. Compare them in a row.","chars":[{"zi":"口","py":"kǒu","en":"mouth","emoji":"👄","tip":"An open square. A mouth."},{"zi":"日","py":"rì","en":"sun / day","emoji":"☀️","tip":"Tall and skinny, like a window of sun.","twin":"曰"},{"zi":"曰","py":"yuē","en":"to say","emoji":"💬","tip":"Shorter and wider than 日. A mouth talking.","twin":"日"},{"zi":"目","py":"mù","en":"eye","emoji":"👀","tip":"Like 日 with an extra shelf. An eye."},{"zi":"田","py":"tián","en":"field","emoji":"🌾","tip":"A square field with a plus inside."},{"zi":"白","py":"bái","en":"white","emoji":"🤍","tip":"日 with a little slash on top."},{"zi":"百","py":"bǎi","en":"hundred","emoji":"💯","tip":"一 sitting on 白."},{"zi":"自","py":"zì","en":"self","emoji":"🙋","tip":"目 with a tiny extra mark. Point at yourself."}]},{"id":"animals","color":"#7b5ea7","title":"Animals","kicker":"Family 6","note":"十 hides inside 牛. 马 will show up again as a sound piece.","chars":[{"zi":"牛","py":"niú","en":"cow","emoji":"🐮","tip":"Like 十 with extra horns and a tail."},{"zi":"羊","py":"yáng","en":"sheep","emoji":"🐑","tip":"Horns on top."},{"zi":"马","py":"mǎ","en":"horse","emoji":"🐴","tip":"This shape will later be a sound hint: ma."},{"zi":"鸟","py":"niǎo","en":"bird","emoji":"🐦","tip":"A bird with a little eye."},{"zi":"火","py":"huǒ","en":"fire","emoji":"🔥","tip":"Flames kicking up."}]},{"id":"family","color":"#ef6b4a","title":"Mom sounds like horse","kicker":"Family 7 · sound parts","note":"女 means woman. 马 says the sound. Together: 妈. That is how most characters work!","chars":[{"zi":"女","py":"nǚ","en":"woman","emoji":"👧","tip":"The meaning piece for girl / woman / mom."},{"zi":"马","py":"mǎ","en":"horse","emoji":"🐴","tip":"Here 马 is a SOUND piece, not a horse-mom."},{"zi":"妈","py":"mā","en":"mom","emoji":"👩","tip":"女 (meaning) + 马 (sound) = mā, mom."},{"zi":"吗","py":"ma","en":"question word","emoji":"❓","tip":"口 (mouth) + 马 (sound). Turns a sentence into a question."}]},{"id":"qing","color":"#2aa7a0","title":"The 青 family","kicker":"Family 8 · sound parts","note":"青 sounds like qing. Add water, heart, sun, or speech and the meaning changes.","chars":[{"zi":"水","py":"shuǐ","en":"water","emoji":"💧","tip":"Splashy water."},{"zi":"小","py":"xiǎo","en":"small","emoji":"🐭","tip":"A little person with arms down."},{"zi":"少","py":"shǎo","en":"few","emoji":"🤏","tip":"小 with an extra slash. Not many."},{"zi":"青","py":"qīng","en":"blue-green","emoji":"💚","tip":"The sound piece for this whole family."},{"zi":"清","py":"qīng","en":"clear","emoji":"🫧","tip":"Water + 青. Clear water."},{"zi":"情","py":"qíng","en":"feeling","emoji":"💗","tip":"Heart + 青. A feeling."},{"zi":"请","py":"qǐng","en":"please","emoji":"🙏","tip":"Speech + 青. Please / invite."},{"zi":"晴","py":"qíng","en":"sunny","emoji":"🌞","tip":"Sun + 青. A sunny day."}]},{"id":"hands","color":"#4d8fd6","title":"Hands & friends","kicker":"Family 9","note":"又 is a hand. Two of them make 友, friend.","chars":[{"zi":"手","py":"shǒu","en":"hand","emoji":"✋","tip":"Fingers on a palm."},{"zi":"又","py":"yòu","en":"again","emoji":"🔁","tip":"An old picture of a right hand."},{"zi":"友","py":"yǒu","en":"friend","emoji":"🤝","tip":"Two hands. Friends."},{"zi":"不","py":"bù","en":"not","emoji":"🚫","tip":"The everyday no / not word."}]}]
+[
+  {
+    "id": "c1",
+    "chars": [
+      { "zi": "一", "py": "yī", "en": "one", "emoji": "1️⃣", "tip": "One line." },
+      { "zi": "二", "py": "èr", "en": "two", "emoji": "2️⃣", "tip": "Two lines. The bottom one is a little longer." },
+      { "zi": "三", "py": "sān", "en": "three", "emoji": "3️⃣", "tip": "Three lines. The middle one is shortest." }
+    ]
+  },
+  {
+    "id": "c2",
+    "chars": [
+      { "zi": "人", "py": "rén", "en": "person", "emoji": "🚶", "tip": "Two legs. The left stroke sits on top.", "twin": "入" },
+      { "zi": "入", "py": "rù", "en": "enter", "emoji": "🚪", "tip": "Same two strokes as 人 — but the right stroke sits on top.", "twin": "人" },
+      { "zi": "火", "py": "huǒ", "en": "fire", "emoji": "🔥", "tip": "Like a person, with two little flames kicking up." },
+      { "zi": "大", "py": "dà", "en": "big", "emoji": "🦣", "tip": "人 with a line across — arms stretched wide." },
+      { "zi": "太", "py": "tài", "en": "too", "emoji": "😮", "tip": "大 plus one extra drop." },
+      { "zi": "天", "py": "tiān", "en": "sky", "emoji": "🌤️", "tip": "A line over 大. Sky above a person.", "twin": "夫" },
+      { "zi": "夫", "py": "fū", "en": "husband", "emoji": "🤵", "tip": "Like 天, but the middle stick pokes out the top.", "twin": "天" },
+      { "zi": "无", "py": "wú", "en": "without", "emoji": "🚫", "tip": "Looks close to 天 and 夫. Check the bottom." }
+    ]
+  },
+  {
+    "id": "c3",
+    "chars": [
+      { "zi": "十", "py": "shí", "en": "ten", "emoji": "➕", "tip": "A cross. One line plus one stick." },
+      { "zi": "干", "py": "gān", "en": "dry", "emoji": "🌵", "tip": "十 with an extra line on top." },
+      { "zi": "牛", "py": "niú", "en": "cow", "emoji": "🐮", "tip": "Like 干, plus a little tail on the left." },
+      { "zi": "平", "py": "píng", "en": "flat", "emoji": "⚖️", "tip": "Like 干, with two dots on the sides." }
+    ]
+  },
+  {
+    "id": "c4",
+    "chars": [
+      { "zi": "木", "py": "mù", "en": "tree", "emoji": "🌳", "tip": "十 with branches and roots." },
+      { "zi": "林", "py": "lín", "en": "woods", "emoji": "🌲", "tip": "Two 木 side by side." },
+      { "zi": "本", "py": "běn", "en": "root", "emoji": "🌱", "tip": "木 with a mark at the bottom — the roots." },
+      { "zi": "未", "py": "wèi", "en": "not yet", "emoji": "⏳", "tip": "木 with two lines. The top line is shorter.", "twin": "末" },
+      { "zi": "末", "py": "mò", "en": "end", "emoji": "🏁", "tip": "Looks like 未, but the top line is longer.", "twin": "未" }
+    ]
+  },
+  {
+    "id": "c5",
+    "chars": [
+      { "zi": "口", "py": "kŏu", "en": "mouth", "emoji": "👄", "tip": "An empty square." },
+      { "zi": "日", "py": "rì", "en": "sun", "emoji": "☀️", "tip": "A tall box with one shelf inside.", "twin": "曰" },
+      { "zi": "曰", "py": "yuē", "en": "say", "emoji": "💬", "tip": "Like 日, but shorter and wider.", "twin": "日" },
+      { "zi": "白", "py": "bái", "en": "white", "emoji": "🤍", "tip": "日 with a little slash on top." },
+      { "zi": "百", "py": "bǎi", "en": "hundred", "emoji": "💯", "tip": "一 sitting on 白." }
+    ]
+  },
+  {
+    "id": "c6",
+    "chars": [
+      { "zi": "女", "py": "nǚ", "en": "woman", "emoji": "👧", "tip": "This piece often means girl, woman, or mom." },
+      { "zi": "马", "py": "mǎ", "en": "horse", "emoji": "🐴", "tip": "A horse. Later it can also be just a sound: ma." },
+      { "zi": "妈", "py": "mā", "en": "mom", "emoji": "👩", "tip": "女 is the meaning. 马 is the sound. Together: mā." },
+      { "zi": "吗", "py": "ma", "en": "question", "emoji": "❓", "tip": "口 is the meaning (a spoken word). 马 is the sound." }
+    ]
+  },
+  {
+    "id": "c7",
+    "chars": [
+      { "zi": "青", "py": "qīng", "en": "green", "emoji": "💚", "tip": "This whole block uses 青 for the sound." },
+      { "zi": "清", "py": "qīng", "en": "clear", "emoji": "🫧", "tip": "Water + 青. Clear water." },
+      { "zi": "情", "py": "qíng", "en": "feeling", "emoji": "💗", "tip": "Heart + 青. A feeling." },
+      { "zi": "晴", "py": "qíng", "en": "sunny", "emoji": "🌞", "tip": "Sun + 青. A sunny day." },
+      { "zi": "请", "py": "qǐng", "en": "please", "emoji": "🙏", "tip": "Speech + 青. Please." }
+    ]
+  }
+]
