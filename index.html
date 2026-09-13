@@ -4,37 +4,27 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover" />
   <meta name="apple-mobile-web-app-capable" content="yes" />
-  <meta name="theme-color" content="#f6e7c1" />
+  <meta name="mobile-web-app-capable" content="yes" />
+  <meta name="theme-color" content="#f4d27a" />
   <title>Hanzi Blocks</title>
   <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>木</text></svg>" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@600;800;900&family=Noto+Sans+SC:wght@500;700;900&family=ZCOOL+KuaiLe&display=swap" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@700;800;900&family=Noto+Sans+SC:wght@700;900&display=swap" rel="stylesheet" />
   <script src="https://cdn.jsdelivr.net/npm/hanzi-writer@3.5/dist/hanzi-writer.min.js"></script>
   <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
   <div id="app">
     <header class="topbar">
-      <div class="brand">
-        <div class="logo">木</div>
-        <div>
-          <h1>Hanzi Blocks</h1>
-          <p>Build characters piece by piece</p>
-        </div>
+      <div class="logo">木</div>
+      <div class="progress-wrap">
+        <div class="progress-bar"><i id="progress-fill"></i></div>
+        <div class="progress-label" id="progress-label">0 / 0</div>
       </div>
       <div class="stars-pill">⭐ <span id="star-count">0</span></div>
     </header>
-    <section id="screen-home" class="screen on"></section>
-    <section id="screen-list" class="screen"></section>
-    <section id="screen-play" class="screen"></section>
-    <section id="screen-cards" class="screen"></section>
-    <nav class="tabs">
-      <button class="tab on" data-go="home">🏠 Families</button>
-      <button class="tab" data-go="list">📋 List</button>
-      <button class="tab" data-go="play">✍️ Trace</button>
-      <button class="tab" data-go="cards">🃏 Cards</button>
-    </nav>
+    <main id="screen" class="screen"></main>
   </div>
   <div class="toast" id="toast"></div>
   <div class="confetti" id="confetti"></div>
