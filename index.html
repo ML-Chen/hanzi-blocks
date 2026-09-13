@@ -11,8 +11,33 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@600;800;900&family=Noto+Sans+SC:wght@500;700;900&family=ZCOOL+KuaiLe&display=swap" rel="stylesheet" />
   <script src="https://cdn.jsdelivr.net/npm/hanzi-writer@3.5/dist/hanzi-writer.min.js"></script>
+  <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
-<p>placeholder replaced next</p>
+  <div id="app">
+    <header class="topbar">
+      <div class="brand">
+        <div class="logo">木</div>
+        <div>
+          <h1>Hanzi Blocks</h1>
+          <p>Build characters piece by piece</p>
+        </div>
+      </div>
+      <div class="stars-pill">⭐ <span id="star-count">0</span></div>
+    </header>
+    <section id="screen-home" class="screen on"></section>
+    <section id="screen-list" class="screen"></section>
+    <section id="screen-play" class="screen"></section>
+    <section id="screen-cards" class="screen"></section>
+    <nav class="tabs">
+      <button class="tab on" data-go="home">🏠 Families</button>
+      <button class="tab" data-go="list">📋 List</button>
+      <button class="tab" data-go="play">✍️ Trace</button>
+      <button class="tab" data-go="cards">🃏 Cards</button>
+    </nav>
+  </div>
+  <div class="toast" id="toast"></div>
+  <div class="confetti" id="confetti"></div>
+  <script src="app.js"></script>
 </body>
 </html>
