@@ -1,18 +1,15 @@
 # Hanzi Blocks
 
-A kid-friendly web app for learning Chinese characters as building blocks.
+Kid-friendly app for learning Chinese characters as building blocks.
 
-Open the app:
+**Play now:** https://rawcdn.githack.com/ML-Chen/hanzi-blocks/main/index.html
 
-**https://ml-chen.github.io/hanzi-blocks/**
+Source: https://github.com/ML-Chen/hanzi-blocks
 
-Backup link if Pages is still warming up:
+The first visit to rawgithack may show a one-time "Open the page" screen. After that the app loads.
 
-**https://cdn.jsdelivr.net/gh/ML-Chen/hanzi-blocks@main/index.html**
-
-Also works as a raw HTML preview:
-
-**https://raw.githack.com/ML-Chen/hanzi-blocks/main/index.html**
+If you enable GitHub Pages on this repo (Settings → Pages → GitHub Actions), this nicer URL will work:
+https://ml-chen.github.io/hanzi-blocks/
 
 ## What it does
 
